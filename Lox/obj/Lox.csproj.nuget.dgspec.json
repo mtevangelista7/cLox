@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\p-mesantos\\source\\repos\\Lox\\Lox\\Lox.csproj": {}
+    "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.csproj": {}
   },
   "projects": {
-    "C:\\Users\\p-mesantos\\source\\repos\\Lox\\Lox\\Lox.csproj": {
+    "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\p-mesantos\\source\\repos\\Lox\\Lox\\Lox.csproj",
+        "projectUniqueName": "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.csproj",
         "projectName": "Lox",
-        "projectPath": "C:\\Users\\p-mesantos\\source\\repos\\Lox\\Lox\\Lox.csproj",
+        "projectPath": "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.csproj",
         "packagesPath": "C:\\Users\\p-mesantos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\p-mesantos\\source\\repos\\Lox\\Lox\\obj\\",
+        "outputPath": "C:\\Users\\p-mesantos\\cLox\\Lox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\p-mesantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
