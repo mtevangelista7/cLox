@@ -2,6 +2,8 @@
 {
     internal class Lox
     {
+        static bool hadError = false;
+
         static void Main(string[] args)
         {
             if (args.Length > 1)
@@ -22,7 +24,8 @@
         private static void RunFile(string pathName)
         {
             byte[] bytes = File.ReadAllBytes(Path.GetFullPath(pathName));
-            // run bytes
+            Run(bytes.ToString()!);
+            if (hadError) return;
         }
 
         private static void RunPrompt()
@@ -36,6 +39,7 @@
                 if (line is null) { break; }
 
                 Run(line);
+                hadError = false;
             }
         }
 
@@ -46,5 +50,17 @@
 
             tokens.ForEach(t => Console.WriteLine(t.ToString()));
         }
+
+        public static void Error(int line, string message)
+        {
+            Report(line, "", message);
+        }
+
+        private static void Report(int line, string where, string message)
+        {
+            Console.WriteLine($"[line {line}] Error {where}: {message}");
+        }
+
+
     }
 }

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\p-mesantos\\.nuget\\packages\\": {}
+    "C:\\Users\\mathe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\cLox\\Lox\\Lox.csproj",
       "projectName": "Lox",
-      "projectPath": "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.csproj",
-      "packagesPath": "C:\\Users\\p-mesantos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\p-mesantos\\cLox\\Lox\\obj\\",
+      "projectPath": "C:\\Users\\mathe\\cLox\\Lox\\Lox.csproj",
+      "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mathe\\cLox\\Lox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\p-mesantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
