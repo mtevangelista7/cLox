@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o/WIKuq+FrvlaKoTh6cyHw9SAbk7gQjhhTQ3Rs/7bFbyJi6a1TVm+bMh7ptCHBNwQhf0j8yJebFRMOY3WoILZA==",
+  "dgSpecHash": "IpoJDPv5Tls2NVFjJC4u0PFeQIL5fjPIsQ/weAt4IgB3N1B6CITSwU6xfBtMA/+L/KwLHAWpvMcPdQzDShlmTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\cLox\\Lox\\Lox.csproj",
+  "projectFilePath": "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

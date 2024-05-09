@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mathe\\.nuget\\packages\\": {}
+    "C:\\Users\\p-mesantos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\cLox\\Lox\\Lox.csproj",
+      "projectUniqueName": "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.csproj",
       "projectName": "Lox",
-      "projectPath": "C:\\Users\\mathe\\cLox\\Lox\\Lox.csproj",
-      "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\cLox\\Lox\\obj\\",
+      "projectPath": "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.csproj",
+      "packagesPath": "C:\\Users\\p-mesantos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\p-mesantos\\cLox\\Lox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\p-mesantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

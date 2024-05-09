@@ -15,7 +15,7 @@ namespace Lox
 
         public override string ToString()
         {
-            return $"{type} {lexeme} {literal}";
+            return $"type: {type} lexeme: {lexeme} literal: {literal}";
         }
     }
 }

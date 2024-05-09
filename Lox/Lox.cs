@@ -6,18 +6,17 @@
 
         static void Main(string[] args)
         {
-            if (args.Length > 1)
+            switch (args.Length)
             {
-                Console.WriteLine("Usage: clox [script]");
-                return;
-            }
-            else if (args.Length == 1)
-            {
-                RunFile(args[0]);
-            }
-            else
-            {
-                RunPrompt();
+                case > 1:
+                    Console.WriteLine("Usage: clox [script]");
+                    return;
+                case 1:
+                    RunFile(args[0]);
+                    break;
+                default:
+                    RunPrompt();
+                    break;
             }
         }
 
@@ -32,7 +31,7 @@
         {
             while (true)
             {
-                Console.WriteLine("> ");
+                Console.Write("> ");
 
                 var line = Console.ReadLine();
 
@@ -46,7 +45,7 @@
         private static void Run(string source)
         {
             Scanner scanner = new Scanner(source);
-            List<Token> tokens = scanner.scanTokens();
+            List<Token> tokens = scanner.ScanTokens();
 
             tokens.ForEach(t => Console.WriteLine(t.ToString()));
         }
@@ -60,7 +59,5 @@
         {
             Console.WriteLine($"[line {line}] Error {where}: {message}");
         }
-
-
     }
 }
