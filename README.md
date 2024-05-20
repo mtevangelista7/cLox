@@ -1,6 +1,6 @@
 # Interpretador em C# para a linguagem Lox
 
-Este projeto é uma implementação de um interpretador para a linguagem fictícia Lox,
+Este projeto é uma implementação de um interpretador para Lox,
 Lox é uma linguagem fictícia do livro [Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Objetivo
