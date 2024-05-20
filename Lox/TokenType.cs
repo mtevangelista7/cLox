@@ -2,7 +2,6 @@
 
 public enum TokenType
 {
-    // Single-character tokens.
     LEFT_PAREN,
     RIGHT_PAREN,
     LEFT_BRACE,
@@ -15,7 +14,6 @@ public enum TokenType
     SLASH,
     STAR,
 
-    // One or two character tokens.
     BANG,
     BANG_EQUAL,
     EQUAL,
@@ -25,12 +23,10 @@ public enum TokenType
     LESS,
     LESS_EQUAL,
 
-    // Literals.
     IDENTIFIER,
     STRING,
     NUMBER,
 
-    // Keywords.
     AND,
     CLASS,
     ELSE,

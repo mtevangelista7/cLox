@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\p-mesantos\\cLox\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4ACB2BD0-93C6-4EBC-8D6A-34A060DD2644}|Tool\\Tool.csproj|c:\\users\\p-mesantos\\clox\\tool\\generateast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACB2BD0-93C6-4EBC-8D6A-34A060DD2644}|Tool\\Tool.csproj|solutionrelative:tool\\generateast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504AE2A5-15F0-42D6-9B9A-34DE6B6D6E1D}|Lox\\Lox.csproj|c:\\users\\p-mesantos\\clox\\lox\\expr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504AE2A5-15F0-42D6-9B9A-34DE6B6D6E1D}|Lox\\Lox.csproj|solutionrelative:lox\\expr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504AE2A5-15F0-42D6-9B9A-34DE6B6D6E1D}|Lox\\Lox.csproj|c:\\users\\p-mesantos\\clox\\lox\\astprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504AE2A5-15F0-42D6-9B9A-34DE6B6D6E1D}|Lox\\Lox.csproj|solutionrelative:lox\\astprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{504AE2A5-15F0-42D6-9B9A-34DE6B6D6E1D}|Lox\\Lox.csproj|c:\\users\\p-mesantos\\clox\\lox\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{504AE2A5-15F0-42D6-9B9A-34DE6B6D6E1D}|Lox\\Lox.csproj|solutionrelative:lox\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{504AE2A5-15F0-42D6-9B9A-34DE6B6D6E1D}|Lox\\Lox.csproj|c:\\users\\p-mesantos\\clox\\lox\\lox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{504AE2A5-15F0-42D6-9B9A-34DE6B6D6E1D}|Lox\\Lox.csproj|solutionrelative:lox\\lox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{504AE2A5-15F0-42D6-9B9A-34DE6B6D6E1D}|Lox\\Lox.csproj|c:\\users\\p-mesantos\\clox\\lox\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{504AE2A5-15F0-42D6-9B9A-34DE6B6D6E1D}|Lox\\Lox.csproj|solutionrelative:lox\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{504AE2A5-15F0-42D6-9B9A-34DE6B6D6E1D}|Lox\\Lox.csproj|c:\\users\\p-mesantos\\clox\\lox\\lox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{504AE2A5-15F0-42D6-9B9A-34DE6B6D6E1D}|Lox\\Lox.csproj|solutionrelative:lox\\lox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Scanner.cs",
               "DocumentMoniker": "C:\\Users\\p-mesantos\\cLox\\Lox\\Scanner.cs",
               "RelativeDocumentMoniker": "Lox\\Scanner.cs",
               "ToolTip": "C:\\Users\\p-mesantos\\cLox\\Lox\\Scanner.cs",
               "RelativeToolTip": "Lox\\Scanner.cs",
-              "ViewState": "AQIAAAgBAAAAAAAAAAAswBUAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T22:43:10.179Z",
+              "WhenOpened": "2024-05-20T17:42:00.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerateAst.cs",
+              "DocumentMoniker": "C:\\Users\\p-mesantos\\cLox\\Tool\\GenerateAst.cs",
+              "RelativeDocumentMoniker": "Tool\\GenerateAst.cs",
+              "ToolTip": "C:\\Users\\p-mesantos\\cLox\\Tool\\GenerateAst.cs",
+              "RelativeToolTip": "Tool\\GenerateAst.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAuwGgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:27:45.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lox.csproj",
+              "DocumentMoniker": "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.csproj",
+              "RelativeDocumentMoniker": "Lox\\Lox.csproj",
+              "ToolTip": "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.csproj",
+              "RelativeToolTip": "Lox\\Lox.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T17:20:41.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Token.cs",
-              "DocumentMoniker": "C:\\Users\\p-mesantos\\cLox\\Lox\\Token.cs",
-              "RelativeDocumentMoniker": "Lox\\Token.cs",
-              "ToolTip": "C:\\Users\\p-mesantos\\cLox\\Lox\\Token.cs",
-              "RelativeToolTip": "Lox\\Token.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Title": "AstPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\p-mesantos\\cLox\\Lox\\AstPrinter.cs",
+              "RelativeDocumentMoniker": "Lox\\AstPrinter.cs",
+              "ToolTip": "C:\\Users\\p-mesantos\\cLox\\Lox\\AstPrinter.cs",
+              "RelativeToolTip": "Lox\\AstPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T22:22:36.457Z",
+              "WhenOpened": "2024-05-20T17:11:04.778Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b600b7d2-2a48-46ba-a4c8-cc2425c90fd0",
+        "Display": 1,
+        "X": 371,
+        "Y": -49,
+        "Width": 1377,
+        "Height": 624,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lox.cs",
-              "DocumentMoniker": "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.cs",
-              "RelativeDocumentMoniker": "Lox\\Lox.cs",
-              "ToolTip": "C:\\Users\\p-mesantos\\cLox\\Lox\\Lox.cs",
-              "RelativeToolTip": "Lox\\Lox.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAcwDIAAAAIAAAA",
+              "Title": "Expr.cs",
+              "DocumentMoniker": "C:\\Users\\p-mesantos\\cLox\\Lox\\Expr.cs",
+              "RelativeDocumentMoniker": "Lox\\Expr.cs",
+              "ToolTip": "C:\\Users\\p-mesantos\\cLox\\Lox\\Expr.cs",
+              "RelativeToolTip": "Lox\\Expr.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwFIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:40:13.037Z",
+              "WhenOpened": "2024-05-20T18:30:45.373Z",
               "EditorCaption": ""
             }
           ]

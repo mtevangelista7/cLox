@@ -4,6 +4,23 @@
     {
         static bool hadError = false;
 
+        /*
+         *
+         *  expression     → literal
+                            | unary
+                            | binary
+                            | grouping ;
+
+            literal        → NUMBER | STRING | "true" | "false" | "nil" ;
+            grouping       → "(" expression ")" ;
+            unary          → ( "-" | "!" ) expression ;
+            binary         → expression operator expression ;
+            operator       → "==" | "!=" | "<" | "<=" | ">" | ">="
+                             | "+"  | "-"  | "*" | "/" ; 
+         * 
+         * 
+         */
+
         static void Main(string[] args)
         {
             switch (args.Length)
