@@ -99,7 +99,7 @@
             // campos
             foreach (string field in fields)
             {
-                streamWriter.WriteLine($"       private {field};");
+                streamWriter.WriteLine($"       public {field};");
             }
 
             streamWriter.WriteLine();

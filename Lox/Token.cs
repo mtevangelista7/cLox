@@ -11,9 +11,9 @@ namespace Lox
         TokenType type = type;
         //  um lexeme é um agrupamento de caracteres que forma uma unidade significativa na linguagem de programação
         // exemplo: total = price * quantity + tax -> "total", "=", "price", "*", "quantity", "+", "tax"
-        string lexeme = lexeme;
-        object literal = literal;
-        int line = line;
+        public string lexeme = lexeme;
+        public object literal = literal;
+        public int line = line;
 
         public override string ToString()
         {
